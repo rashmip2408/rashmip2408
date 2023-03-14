@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashmi</h1>
-<h3 align="center">Always looking for an opportunity to learn something new🎯</h3>
+<h3 align="center">Always looking for an opportunity to learn something new👾</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashmip2408" alt="rashmip2408" /></a> </p>
 
