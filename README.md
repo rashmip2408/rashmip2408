@@ -3,17 +3,17 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashmip2408" alt="rashmip2408" /></a> </p>
 
-                                             - 🔭 I’m currently boosting **web development skills.**
+- 🔭 I’m currently boosting **web development skills.**
 
-                                             - 🌱 I’m currently learning **Angular.**
+- 🌱 I’m currently learning **Angular.**
 
-                                             - 👯 I’m looking to collaborate on **AngularJS.**
+- 👯 I’m looking to collaborate on **AngularJS.**
 
-                                             - 🤝 I’m looking for help with **Tailwind CSS.**
+- 🤝 I’m looking for help with **Tailwind CSS.**
 
-                                             - 📫 How to reach me **rashmip2408@gmail.com**
+- 📫 How to reach me **rashmip2408@gmail.com**
 
-                                             - ⚡ Fun fact **Not so funny😐**
+- ⚡ Fun fact **Not so funny😐**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
