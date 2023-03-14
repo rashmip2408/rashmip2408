@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently boosting React-skills.<br>👯 I’m looking to collaborate on React-native.<br>⚡ Fun fact, still watching Mr. Bean.
+🔭 I’m currently learning Angular.⚡ Fun fact, still watching Mr. Bean.
 
 
 ## 🌐 Socials:
