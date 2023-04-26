@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **AngularJS.**
 
-- 🤝 I’m looking for help with **Tailwind CSS.**
-
 - 📫 How to reach me **rashmip2408@gmail.com**
 
 - ⚡ Fun fact **Not so funny😐**
